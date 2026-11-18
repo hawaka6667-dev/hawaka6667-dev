@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Lei Lu 👋
 
-<!--
-**hawaka6667-dev/hawaka6667-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+欢迎来到我的 GitHub 主页！
 
-Here are some ideas to get you started:
+- 🔭 正在探索软件开发、开源项目与有趣的 Web 工具
+- 💻 喜欢把想法做成可用的小项目
+- 📚 持续学习，持续构建
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Visitors
+
+<p align="center">
+  <img src="https://count.getloli.com/@hawaka6667-dev?name=hawaka6667-dev&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile visitor counter" />
+</p>
